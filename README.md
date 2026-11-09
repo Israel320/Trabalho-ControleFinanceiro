@@ -79,7 +79,11 @@ flowchart LR
 A estrutura abaixo é uma referência de organização, a ser ajustada aos nomes reais das classes implementadas.
 
 
-ControleFinanceiro/
+## Estrutura do Projeto
+
+O projeto está organizado em pacotes seguindo o padrão MVC:
+
+```text
 src/
 ├── app/
 │   └── Main.java
@@ -98,6 +102,8 @@ src/
     ├── TelaRelatorio.java
     ├── GraficoFinanceiro.java
     └── Estilo.java
+```
+
 
     
  Tecnologias e conceitos
