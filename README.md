@@ -11,7 +11,7 @@ Curso: Engenharia de Software — 2º semestre
 
 Projeto: Grupo 04 — Controle Financeiro Pessoal
 
-Integrante	Matrícula
+Integrantes e 	Matrícula:
 
 Danilo Marques de Sousa -	0028249
 
