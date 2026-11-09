@@ -80,18 +80,24 @@ A estrutura abaixo é uma referência de organização, a ser ajustada aos nomes
 
 
 ControleFinanceiro/
-└── src/
-    ├── model/
-    │   ├── Movimentacao.java
-    │   └── ControleFinanceiro.java
-    ├── view/
-    │   ├── TelaPrincipal.java
-    │   ├── TelaCadastroMovimentacao.java
-    │   ├── TelaConsultaFinanceira.java
-    │   └── TelaRelatorio.java
-    ├── controller/
-    │   └── MovimentacaoController.java
-    └── Main.java
+src/
+├── app/
+│   └── Main.java
+│
+├── model/
+│   ├── Movimentacao.java
+│   └── Financeiro.java
+│
+├── controller/
+│   └── FinanceiroController.java
+│
+└── view/
+    ├── TelaPrincipal.java
+    ├── TelaCadastro.java
+    ├── TelaConsulta.java
+    ├── TelaRelatorio.java
+    ├── GraficoFinanceiro.java
+    └── Estilo.java
 
     
  Tecnologias e conceitos
