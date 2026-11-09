@@ -105,15 +105,16 @@ src/
 
 
     
- Tecnologias e conceitos
-Tecnologia ou conceito	Aplicação
-Java SE	Linguagem de programação da aplicação.
-Java Swing	Construção das interfaces gráficas desktop.
-MVC	Separação entre Model, View e Controller.
-Programação Orientada a Objetos	Organização em classes, objetos, métodos e construtores.
-Arrays / ArrayList	Armazenamento temporário das movimentações.
-Git e GitHub	Versionamento e compartilhamento do projeto.
+ ## Tecnologias Utilizadas
 
+| Tecnologia | Aplicação |
+|---|---|
+| Java SE 21 | Linguagem de programação |
+| Java Swing | Interface gráfica |
+| Eclipse IDE | Ambiente de desenvolvimento |
+| ArrayList | Armazenamento em memória |
+| Java Time API | Manipulação de datas e horários |
+| MVC | Organização arquitetural |
 
 Restrições da atividade: não utilizar banco de dados, aplicações web, Spring Boot, JavaFX ou frameworks externos. A interação principal do sistema deve ocorrer pela interface gráfica, não pelo terminal.
  Como executar
