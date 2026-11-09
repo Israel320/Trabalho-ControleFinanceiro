@@ -83,7 +83,8 @@ A estrutura abaixo é uma referência de organização, a ser ajustada aos nomes
 O projeto está organizado em pacotes seguindo o padrão MVC:
 
 ```text
-src/
+ControleFinanceiro/
+├──src/
 ├── app/
 │   └── Main.java
 │
