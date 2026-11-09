@@ -179,8 +179,12 @@ Nesta versão, as movimentações são armazenadas em memória por meio de `Arra
 
 Isso significa que os dados ficam disponíveis durante a execução do programa, mas são perdidos quando a aplicação é encerrada. O projeto ainda não utiliza banco de dados ou armazenamento permanente.
 
- Objetivos de aprendizagem
-O desenvolvimento deste projeto tem como finalidade aplicar, em um problema prático, conhecimentos de Java, estruturas condicionais e de repetição, métodos, classes, objetos, encapsulamento, coleções, tratamento de entradas inválidas e eventos de interface. Também busca exercitar a organização do código em MVC e a implementação de operações de cadastro, consulta, atualização, exclusão e cálculos financeiros.
+## Objetivo
+
+Desenvolver uma aplicação desktop que facilite o controle financeiro pessoal, permitindo organizar receitas e despesas, acompanhar o saldo e visualizar informações financeiras de maneira simples e intuitiva.
+
+O projeto também tem como finalidade consolidar os conhecimentos adquiridos na disciplina, aplicando conceitos de Java, programação orientada a objetos, interfaces gráficas e arquitetura MVC.
+
 
 <div align="center">Controle Financeiro Pessoal · Grupo 04
 
