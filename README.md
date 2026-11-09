@@ -116,7 +116,13 @@ src/
 | Java Time API | Manipulação de datas e horários |
 | MVC | Organização arquitetural |
 
-Restrições da atividade: não utilizar banco de dados, aplicações web, Spring Boot, JavaFX ou frameworks externos. A interação principal do sistema deve ocorrer pela interface gráfica, não pelo terminal.
+**Restrições da atividade:**
+-não utilizar banco de dados
+-aplicações web
+-Spring Boot 
+-JavaFX ou frameworks externos
+-A interação principal do sistema deve ocorrer pela interface gráfica, não pelo terminal.
+
  Como executar
 1. Instale um JDK compatível com a versão utilizada no projeto.
 2. Clone ou baixe este repositório.
