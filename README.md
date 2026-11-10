@@ -12,6 +12,9 @@
 
 **Projeto:** Grupo 04 — Controle Financeiro Pessoal
 
+**Link para o vídeo no YouTube explicando Front-end e Back-end:**
+ - https://youtu.be/N__HmKKwasg
+
 ## Integrantes e Matrícula
 
 
