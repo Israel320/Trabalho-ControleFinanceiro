@@ -107,6 +107,9 @@ ControleFinanceiro/
     └── Estilo.java
 ```
 
+## Prints do programa em funcionamento 
+<img width="1095" height="725" alt="Captura de tela 2026-11-16 085016" src="https://github.com/user-attachments/assets/b528c428-fe34-4799-98e7-73a4a66cb9cf" />
+
 
     
  ## Tecnologias Utilizadas
