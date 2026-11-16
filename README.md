@@ -106,6 +106,7 @@ ControleFinanceiro/
     ├── GraficoFinanceiro.java
     └── Estilo.java
 ```
+---
 
 ## Prints do programa em funcionamento 
  <p align="center"><b>Tela Principal:</b></p>
