@@ -114,7 +114,7 @@ ControleFinanceiro/
 **Tela Cadastro de Movimentação**
 <img width="1101" height="725" alt="Captura de tela 2026-11-16 085059" src="https://github.com/user-attachments/assets/e24ae6ef-50dc-46c9-9c17-f16611ecb0a2" />
 
-**Tela Registo de Movimentações**
+**Tela Registro de Movimentações**
 <img width="1099" height="722" alt="Captura de tela 2026-11-16 085123" src="https://github.com/user-attachments/assets/a9884a86-558f-472d-801f-6fda11b0fe54" />
 
 **Tela Relatório de Movimentações**
