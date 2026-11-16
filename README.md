@@ -108,19 +108,19 @@ ControleFinanceiro/
 ```
 
 ## Prints do programa em funcionamento 
-<div align="center"> **Tela Principal:**
+ <p align="center"><b>Tela Principal:</b></p>  **Tela Principal:**
 <img width="1095" height="725" alt="Captura de tela 2026-11-16 085016" src="https://github.com/user-attachments/assets/b528c428-fe34-4799-98e7-73a4a66cb9cf" />
 
-<div align="center"> **Tela Cadastro de Movimentação:**
+**Tela Cadastro de Movimentação:**
 <img width="1101" height="725" alt="Captura de tela 2026-11-16 085059" src="https://github.com/user-attachments/assets/e24ae6ef-50dc-46c9-9c17-f16611ecb0a2" />
 
-<div align="center"> **Tela Registro de Movimentações:**
+**Tela Registro de Movimentações:**
 <img width="1099" height="722" alt="Captura de tela 2026-11-16 085123" src="https://github.com/user-attachments/assets/a9884a86-558f-472d-801f-6fda11b0fe54" />
 
-<div align="center"> **Tela Relatório de Movimentações:**
+**Tela Relatório de Movimentações:**
 <img width="1090" height="720" alt="Captura de tela 2026-11-16 085250" src="https://github.com/user-attachments/assets/8a280768-6d55-41b8-86df-e90b4ade510f" />
 
-<div align="center"> **Tela Gráficos:**
+**Tela Gráficos:**
 <img width="1089" height="729" alt="Captura de tela 2026-11-16 085303" src="https://github.com/user-attachments/assets/e79fd9ff-d3b7-4bd9-a528-920f60318145" />
 
 ---
